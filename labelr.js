@@ -1,6 +1,7 @@
 //need to fix if applied twice
 // test style addition
 // class label
+//create new branch
 
 (function UMD(name,context,definition){
     if (typeof define === "function" && define.amd) { define(definition); }
