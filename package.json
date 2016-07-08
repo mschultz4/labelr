@@ -1,0 +1,20 @@
+{
+  "name": "labelr",
+  "version": "0.0.1",
+  "description": "Lightweight dependency free label creator",
+  "main": "labelr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files":["dist"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschultz4/labelr"
+  },
+  "author": "Matt Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschultz4/labelr/issues"
+  },
+  "homepage": "https://github.com/mschultz4/labelr#readme"
+}
